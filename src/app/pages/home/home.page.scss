@@ -1,0 +1,29 @@
+.welcome-card img {
+  max-height: 35vh;
+  overflow: hidden;
+}
+
+.item {
+   border-style: none 
+  }
+
+img{
+  width: 2rem;
+}
+
+.espacio-left{
+  padding-left: 1.6rem;
+}
+
+ion-card{
+  padding: .7rem 0;
+}
+
+ion-content{
+  padding-top: 2rem;
+}
+
+h2{
+  color: var(--ion-color-primary);
+}
+
