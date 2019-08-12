@@ -4,7 +4,7 @@
   "defaultProject": "app",
   "newProjectRoot": "projects",
   "projects": {
-    "CCU": {
+    "app": {
       "root": "",
       "sourceRoot": "src",
       "projectType": "application",
