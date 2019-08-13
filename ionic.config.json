@@ -1,6 +1,8 @@
 {
   "name": "CCU",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "79673686"
 }
